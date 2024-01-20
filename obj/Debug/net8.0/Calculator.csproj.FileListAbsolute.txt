@@ -1,0 +1,14 @@
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\bin\Debug\net8.0\Calculator.exe
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\bin\Debug\net8.0\Calculator.deps.json
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\bin\Debug\net8.0\Calculator.dll
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\bin\Debug\net8.0\Calculator.pdb
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\obj\Debug\net8.0\Calculator.dll
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\obj\Debug\net8.0\Calculator.pdb
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+c:\xampp\htdocs\Cursos\Curso_C#\Projeto_1\Calculator\obj\Debug\net8.0\ref\Calculator.dll
